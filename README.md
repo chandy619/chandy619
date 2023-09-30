@@ -3,9 +3,10 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/chandy619/configure-ad)
+  - [Configuring Active Directory](https://github.com/chandy619/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chandy619/azure-network-protocols)
-    
+  - [Domain Name System (DNS)](https://github.com/chandy619/intuition-dns)
+  - [Network File Shares and Permissions](https://github.com/chandy619/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/chandy619/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/chandy619/post-install-config)
